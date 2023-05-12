@@ -32,9 +32,9 @@
 			</div>
 			<p class="tels">客服热线：10000 / 10086 / 10010 / 10099</p>
 			<p class="note">
-				该程序仅供娱乐!!! <del>(反正行程卡已经下线了, 我这也伪造不了啥信息)</del>
-				<br />
-				&copy; 2022 DuckBurnIncense
+<!--				该程序仅供娱乐!!! <del>(反正行程卡已经下线了, 我这也伪造不了啥信息)</del>-->
+<!--				<br />-->
+<!--				&copy; 2022 DuckBurnIncense-->
 			</p>
 		</div>
 		<div class="bottom-ad" @click="$router.push('/login')">

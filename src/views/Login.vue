@@ -69,9 +69,9 @@
 				</swipe-c>
 			</div>
 			<p class="note">
-				该程序仅供娱乐!!! <del>(反正行程卡已经下线了, 我这也伪造不了啥信息)</del>
-				<br />
-				&copy; 2022 DuckBurnIncense
+<!--				该程序仅供娱乐!!! <del>(反正行程卡已经下线了, 我这也伪造不了啥信息)</del>-->
+<!--				<br />-->
+<!--				&copy; 2022 DuckBurnIncense-->
 			</p>
 		</div>
 	</div>
